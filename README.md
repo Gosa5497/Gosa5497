@@ -2,56 +2,119 @@
 
 ### Software Engineer | Full-Stack Developer | AI & Machine Learning
 
-I'm a Software Engineer based in Addis Ababa, Ethiopia, with 5+ years of professional experience developing and maintaining web applications, REST APIs, and digital-service platforms.
+I'm a Software Engineer based in **Addis Ababa, Ethiopia**, with **5+ years of professional experience** developing, deploying, and maintaining web applications, REST APIs, and digital-service platforms.
 
-I currently work at the **Ethiopian Artificial Intelligence Institute (EAII)**, contributing to government digital-service systems, including MESOB.
+I currently work at the **Ethiopian Artificial Intelligence Institute (EAII)**, contributing to government digital-service systems, including the MESOB platform.
 
-### 💻 Technical Skills
+My interests include scalable backend development, cloud infrastructure, software performance, machine learning, and AI code evaluation.
 
-- **Languages:** Python, Java, JavaScript, SQL, C, C++
-- **Backend:** Django, Django REST Framework, Spring Boot, REST APIs
-- **Frontend:** React, HTML, CSS, Tailwind CSS
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **DevOps:** Docker, Kubernetes, Linux, Git, CI/CD, Apache APISIX
-- **Testing:** k6 Performance Testing, API Testing, Debugging
-- **AI/ML:** Machine Learning, NLP, LLM Evaluation, AI Code Assessment
+---
 
-### 🚀 Selected Projects
+## 💻 Technical Skills
 
-**Hope Lounge — QR-Based Digital Menu & Ordering**
+**Programming Languages**
 
-Developed a restaurant digital menu and ordering platform using React, Django REST Framework, PostgreSQL, and Chapa payment integration.
+Python · Java · JavaScript · SQL · C · C++
 
-[View Live Project](https://hopeloungemenu.com)
+**Backend Development**
 
-**E-Ticketing System**
+Django · Django REST Framework · Spring Boot · REST APIs · JWT Authentication
 
-Built a full-stack event ticketing system with Spring Boot, React, PostgreSQL, authentication, and QR-code ticket generation.
+**Frontend Development**
 
-**Student Internship Management System**
+React · HTML · CSS · Tailwind CSS · Bootstrap
 
-Developed web application functionality and integrated AI and machine-learning features for student support and internship management.
+**Databases**
 
-### 🛠️ Professional Experience
+PostgreSQL · MySQL · MongoDB · Redis
 
-**Software Engineer — Ethiopian Artificial Intelligence Institute**
+**DevOps & Infrastructure**
 
-- React frontend development and Django REST API implementation
-- Apache APISIX API gateway configuration
-- k6 load and performance testing
-- Docker and Kubernetes deployment support
-- Dashboard development and production debugging
+Docker · Kubernetes · Linux · Git · CI/CD · Apache APISIX
 
-### 🎓 Education
+**Performance Testing & Quality**
 
-**BSc in Software Engineering**
+k6 · API Testing · Performance Testing · Debugging
 
-Addis Ababa Science and Technology University
+**Artificial Intelligence & Machine Learning**
 
-### 📫 Contact
+Machine Learning · NLP · LLM Evaluation · AI Code Assessment
 
-- Email: gosayewoyo5@gmail.com
-- GitHub: https://github.com/Gosa5497
-- Live Project: https://hopeloungemenu.com
+---
 
-**Open to software engineering, full-stack development, and AI code evaluation opportunities.**
+## 🚀 Featured Projects
+
+### 🍽️ Hope Lounge — Digital Menu & Ordering Platform
+
+A QR-based restaurant menu and ordering platform developed using React, Django REST Framework, and PostgreSQL.
+
+**Features:**
+- Digital menu browsing through QR codes
+- Food ordering workflow
+- Payment integration using Chapa
+- Backend REST APIs
+- Customer-facing web interface
+
+**Technologies:** React, Django REST Framework, PostgreSQL, Chapa
+
+**Live Project:** https://hopeloungemenu.com
+
+### 🎟️ E-Ticketing System
+
+A full-stack event ticketing application supporting ticket purchasing, user authentication, payment integration, and QR-code ticket generation.
+
+**Technologies:** Java, Spring Boot, React, PostgreSQL
+
+**Status:** Developed; not yet deployed for live events.
+
+### 🎓 Student Internship Management System
+
+An academic software engineering project integrating web development and artificial intelligence.
+
+**Features:**
+- Internship management functionality
+- AI chatbot integration
+- Student-performance prediction features
+- Internship-report classification
+- Company recommendation features
+
+**Technologies:** Django, React, Machine Learning
+
+---
+
+## 🛠️ Professional Experience
+
+### Software Engineer — Ethiopian Artificial Intelligence Institute (EAII)
+
+**August 2021 – Present | Addis Ababa, Ethiopia**
+
+- Developed React frontend functionality for the MESOB Complaint Management System.
+- Contributed to frontend architecture and database design.
+- Developed Django REST APIs and authentication functionality.
+- Configured Apache APISIX API gateway components.
+- Conducted API load and performance testing using k6.
+- Contributed to the MESOB National Dashboard.
+- Supported Docker and Kubernetes deployments and operations.
+- Developed JSON-based mobile forms for government digital services.
+
+### AI / LLM Evaluation
+
+Experience with AI-generated response evaluation, coding-related assessment, and technical evaluation tasks through Revelo and AfterQuery.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Software Engineering**
+
+Addis Ababa Science and Technology University (AASTU)
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** gosayewoyo5@gmail.com
+- **GitHub:** https://github.com/Gosa5497
+- **Live Project:** https://hopeloungemenu.com
+
+**Open to software engineering, full-stack development, backend development, and AI code evaluation opportunities.**
